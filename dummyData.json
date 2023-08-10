@@ -1,0 +1,48 @@
+{
+  "jobs": [
+    {
+      "title": "Housekeeper",
+      "description": "Looking for a reliable and experienced housekeeper to manage household tasks.",
+      "salary": "25000 per month",
+      "time": "Full-time",
+      "location": "Mumbai, Maharashtra, India",
+      "category": "service to sell",
+      "mobile_no": "123-456-7890",
+      "email": "housekeeper@example.com",
+      "posted_by": "John Doe"
+    },
+    {
+      "title": "Childcare Assistant",
+      "description": "Seeking a caring individual to assist in childcare duties for a busy family.",
+      "salary": "18000 per month",
+      "time": "Part-time",
+      "location": "Delhi, Delhi, India",
+      "category": "service to sell",
+      "mobile_no": "987-654-3210",
+      "email": "childcare@example.com",
+      "posted_by": "Jane Smith"
+    },
+    {
+      "title": "Cook",
+      "description": "Experienced cook needed to prepare meals for a family of four.",
+      "salary": "30000 per month",
+      "time": "Full-time",
+      "location": "Bengaluru, Karnataka, India",
+      "category": "product to sell",
+      "mobile_no": "555-123-4567",
+      "email": "cook@example.com",
+      "posted_by": "Robert Johnson"
+    },
+    {
+      "title": "Gardener",
+      "description": "Looking for a skilled gardener to maintain a beautiful garden.",
+      "salary": "22000 per month",
+      "time": "Part-time",
+      "location": "Chennai, Tamil Nadu, India",
+      "category": "service to sell",
+      "mobile_no": "111-222-3333",
+      "email": "gardener@example.com",
+      "posted_by": "Emily Brown"
+    }
+  ]
+}

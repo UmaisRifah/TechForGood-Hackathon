@@ -1,0 +1,209 @@
+{
+  "Homely Jobs": [
+    {
+      "title": "Home-based Food Business",
+      "description": "Preparing and selling homemade snacks, pickles, and traditional delicacies in the local market."
+    },
+    {
+      "title": "Handmade Craft Sales",
+      "description": "Creating and selling handcrafted products like pottery, baskets, and embroidery."
+    },
+    {
+      "title": "Laundry Services",
+      "description": "Offering laundry and ironing services for households and small businesses."
+    },
+    {
+      "title": "Home-based Tutorials",
+      "description": "Providing tutoring or skill-based training to children or adults from home."
+    },
+    {
+      "title": "Pet Care Services",
+      "description": "Taking care of pets and offering pet-sitting services for neighbors."
+    },
+      {
+        "title": "Crop Drying Services",
+        "description": "Offering crop drying facilities to farmers during the harvest season."
+      },
+      {
+        "title": "Seed Saving and Exchange",
+        "description": "Running a seed bank to preserve local plant varieties and exchange seeds with other farmers."
+      },
+      {
+        "title": "Home-based Textile Printing",
+        "description": "Creating and selling hand-printed fabrics and textiles."
+      },
+      {
+        "title": "Rural Beauty Services",
+        "description": "Offering beauty and grooming services to local residents, especially during festive occasions."
+      },
+      {
+        "title": "Local Artisan Markets",
+        "description": "Organizing and managing local artisan markets to promote handmade products."
+      },
+      {
+        "title": "Livestock Feed Production",
+        "description": "Producing livestock feed and supplements for nearby farms."
+      },
+      {
+        "title": "Rural Waste Management",
+        "description": "Establishing waste management services and recycling initiatives in the community."
+      }
+  ],
+  "Domestic Jobs": [
+    {
+      "title": "Domestic Help",
+      "description": "Assisting with household chores, including cleaning, cooking, and taking care of elderly family members."
+    },
+    {
+      "title": "Elderly Care",
+      "description": "Providing caregiving services for elderly individuals who need assistance and companionship."
+    },
+    {
+      "title": "Babysitting",
+      "description": "Offering babysitting services to working parents, especially during weekends or evenings."
+    },
+    {
+      "title": "Housekeeping for Guesthouses",
+      "description": "Providing cleaning and maintenance services for guesthouses or homestays."
+    },
+    {
+      "title": "Small-scale Farming",
+      "description": "Engaging in backyard gardening, growing vegetables, and maintaining small farms."
+    }
+  ],
+  "Farm-level Jobs": [
+    {
+      "title": "Livestock Caretaker",
+      "description": "Taking care of livestock, such as poultry, goats, or cattle, and assisting with feeding and cleaning."
+    },
+    {
+      "title": "Crop Scouting",
+      "description": "Inspecting crops for pests, diseases, and nutrient deficiencies to ensure healthy plant growth."
+    },
+    {
+      "title": "Farm Equipment Maintenance",
+      "description": "Assisting with the repair and maintenance of farm machinery and tools."
+    },
+    {
+      "title": "Agri-entrepreneurship",
+      "description": "Starting small agribusiness ventures, like selling farm produce or homemade products in local markets."
+    },
+    {
+      "title": "Sustainable Farming Practices",
+      "description": "Promoting and implementing eco-friendly farming techniques, such as organic farming and water conservation."
+    }
+  ],
+  "Seasonal Jobs": [
+    {
+      "title": "Floral Arrangement and Decoration",
+      "description": "Providing floral arrangement services for weddings and events during peak seasons."
+    },
+    {
+      "title": "Seasonal Agri-Processing",
+      "description": "Assisting in processing seasonal fruits and vegetables for value-added products like jams or pickles."
+    },
+    {
+      "title": "Fishing and Aquaculture",
+      "description": "Engaging in fishing or aquaculture activities during specific seasons."
+    },
+    {
+      "title": "Reforestation Projects",
+      "description": "Participating in tree-planting initiatives during environmental conservation drives."
+    },
+    {
+      "title": "Solar Dryer Operation",
+      "description": "Operating solar dryers to preserve seasonal fruits and vegetables."
+    }
+],
+    "Spring (March to May)": [
+      {
+        "title": "Gardening and Landscaping",
+        "description": "Tending gardens and landscapes for homes, parks, and public spaces."
+      },
+      {
+        "title": "Spring Cleaning",
+        "description": "Providing deep cleaning services for homes, schools, and community centers."
+      },
+      {
+        "title": "Outdoor Event Assistance",
+        "description": "Assisting with setting up and managing outdoor events like picnics, local fairs, and cultural festivals."
+      },
+      {
+        "title": "Plant Nursery Support",
+        "description": "Helping in plant nurseries with potting, repotting, and nurturing plants for sale."
+      }
+    ],
+    "Summer (June to August)": [
+      {
+        "title": "Summer Camp Counselor",
+        "description": "Working as a counselor in summer camps, organizing activities for children and teens."
+      },
+      {
+        "title": "Agricultural Labor",
+        "description": "Engaging in fruit and vegetable picking and supporting farm work during the growing season."
+      },
+      {
+        "title": "Tour Guiding",
+        "description": "Guiding tourists on nature walks, birdwatching tours, and historical site visits."
+      },
+      {
+        "title": "Ice Cream Vendor",
+        "description": "Selling homemade or locally made ice cream and cold treats during the hot season."
+      }
+    ],
+    "Autumn (September to November)": [
+      {
+        "title": "Harvest Festival Assistance",
+        "description": "Assisting with decorating, food preparation, and event coordination for local harvest festivals and fairs."
+      },
+      {
+        "title": "Canning and Preserving",
+        "description": "Helping with food preservation by canning jams, pickles, and dried fruits for the winter season."
+      },
+      {
+        "title": "Fall Cleaning Services",
+        "description": "Offering thorough cleaning and decluttering services before the onset of winter."
+      },
+      {
+        "title": "Firewood and Fuel Collection",
+        "description": "Gathering firewood and biomass materials for heating and cooking during winter."
+      }
+    ],
+    "Winter (December to February)": [
+      {
+        "title": "Winter Event Management",
+        "description": "Assisting in organizing holiday markets, Christmas bazaars, and winter carnivals."
+      },
+      {
+        "title": "Snow Removal",
+        "description": "Providing snow clearing services for residential and commercial properties."
+      },
+      {
+        "title": "Handicraft Sales",
+        "description": "Creating and selling handmade winter accessories like scarves, hats, and mittens."
+      },
+      {
+        "title": "Seasonal Decorations",
+        "description": "Designing and selling seasonal decorations for homes and businesses."
+      }
+    ],
+    "All Year Round (Ongoing Opportunities)": [
+      {
+        "title": "Domestic Housekeeping",
+        "description": "Offering regular cleaning and housekeeping services for households, guesthouses, and small businesses."
+      },
+      {
+        "title": "Cooking and Catering",
+        "description": "Preparing and delivering home-cooked meals for families, events, and special occasions."
+      },
+      {
+        "title": "Childcare Assistance",
+        "description": "Providing part-time childcare support and babysitting services for parents in the community."
+      },
+      {
+        "title": "Sewing and Tailoring",
+        "description": "Offering tailoring and mending services for clothing repairs and alterations."
+      }
+    ]
+  }
+  
